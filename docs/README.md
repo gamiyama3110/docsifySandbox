@@ -8,6 +8,7 @@
 #### 大体友達
 
 ## Table of Contentsに出るのは `見出し2` まで
+見出しのレベルは設定で変えられる。
 
 # マークダウン記法サンプル
 [引用](https://qiita.com/tbpgr/items/989c6badefff69377da7)

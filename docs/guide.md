@@ -1,11 +1,8 @@
-# hogehoge!!!!
+# ガイド
+## デプロイ
+github pagesにデプロイする。
 
-ほげ
+`Settings` -> `GitHub Pages` 
+![github pages](_images/deploy-github-pages.png)
 
-``` java
-public class Hogehoge {
-  public static void main(String[] args) {
-    System.out.println("Hellow Hogehoge!!!");
-  }
-}
-```
+画像を貼り付ける↑

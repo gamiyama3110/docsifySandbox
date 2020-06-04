@@ -14,8 +14,8 @@
 #### ローカルプレビュー
 プレビューしながらファイルを編集できる。
 
-''' bash
+```bash
 docsify serve docs
-'''
+```
 
 [http://localhost:3000](http://localhost:3000)
