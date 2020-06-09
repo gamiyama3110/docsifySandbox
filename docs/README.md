@@ -1,6 +1,10 @@
 # docsifyで遊ぼうぜ！！！
 ほほげほげほげ:innocent::innocent::innocent::innocent:
 
+これでAPIドキュメント整理できそう。
+
+テンプレ作ろ。
+
 ## マークダウンで記事を書く
 
 ### ルールからはみ出るやつは
